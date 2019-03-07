@@ -1,4 +1,5 @@
 def countdown(number)
+  time = number
   time == number
   while time > 0
   puts "#{time} SECONDS!"
