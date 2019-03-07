@@ -1,4 +1,3 @@
-
 def countdown(number)
   time = number
   while time > 0
