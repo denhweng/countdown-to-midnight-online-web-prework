@@ -1,6 +1,6 @@
 
 def countdown(number)
-  time = 10 
+  time = number
   while time > 0
   puts "#{time} SECONDS!"
   time -= 1
